@@ -1,0 +1,26 @@
+@charset "UTF-8"; 
+#elementosHome{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#elementosHome:hover{
+    cursor: pointer;
+}
+#logoHome{
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+ #subText{ 
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-bottom: 30px; 
+ }
+ #divForm{
+    margin-top: 15px;
+ }
+ #btnFilter{
+    margin-left: 5px;
+ }

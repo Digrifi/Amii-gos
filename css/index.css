@@ -1,0 +1,19 @@
+@charset "UTF-8"; 
+  .image1 { 
+    z-index: 843;
+    margin: 0 40%;
+    position: absolute;
+  }
+  .image2 { 
+    
+    position: relative; 
+  }
+  #landingButton{ 
+    position: absolute;
+    z-index: 844;
+    display: flex;
+    
+    margin-left:46%;
+    margin-top: 19%;
+    justify-content: center;
+  }
